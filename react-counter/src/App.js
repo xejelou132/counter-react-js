@@ -1,11 +1,9 @@
-import Counter from "./Components/Counter.js"
-import CounterGroup  from "./Components/CounterGroup.js";
+import MultipleCounter from "./Components/MultipleCounter"
 
 function App() {
   return (
     <div className="App">
-      <CounterGroup></CounterGroup>
-      <Counter></Counter>
+      <MultipleCounter></MultipleCounter>
     </div>
   );
 }

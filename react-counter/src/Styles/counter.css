@@ -1,0 +1,28 @@
+.counter {
+    text-align: center;
+    margin: 15px;
+
+  }
+
+  .divSize{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    min-height: 100px;
+  }
+
+  button {
+    background-color: #4CAF50; /* Green */
+    border: black;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+  }
+
+  span{
+    color: black;
+    font-size: 17px;
+  }
